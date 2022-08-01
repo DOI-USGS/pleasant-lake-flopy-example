@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Modflow-setup",
+    "organization": "U.S. Geological Survey",
+    "description": "Python package for automating the setup of MODFLOW groundwater flow models.",
+    "version": "v0.1.0",
+    "status": "Production",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://code.usgs.gov/water/modflow-setup/-/raw/v0.1.0/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://code.usgs.gov/water/modflow-setup",
+    "downloadURL": "https://code.usgs.gov/water/modflow-setup/-/archive/v0.1.0/modflow-setup-v0.1.0.zip",
+    "disclaimerURL": "https://code.usgs.gov/water/modflow-setup/-/raw/v0.1.0/DISCLAIMER.md",
+    "repositoryURL": "https://code.usgs.gov/water/modflow-setup.git",
+    "vcs": "git",
+
+    "laborHours": 0,
+
+    "tags": [
+      "python",
+      "MODFLOW",
+      "groundwater models",
+      "USGS",
+      "water"
+    ],
+
+    "languages": [
+      "python"
+    ],
+
+    "contact": {
+      "name": "Andrew Leaf",
+      "email": "aleaf@usgs.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2022-07-26"
+    }
+  }
+]

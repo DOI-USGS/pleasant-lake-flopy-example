@@ -9,7 +9,7 @@ This repository contains a worked example of the Pleasant Lake problem (Fienen e
 ## Running the example
 There are two ways to run the example:
 
-1) [online via Binder](https://mybinder.org/v2/gh/usgs/modflow-setup/develop?urlpath=lab/tree/examples)
+1) [online via Binder](https://mybinder.org/v2/gh/aleaf/2022-gw-tech-spotlight-flopy/HEAD?labpath=worked_flopy_example.ipynb)
 2) Locally on your computer, after creating a suitable python environment
 
 ### Running the example locally
@@ -22,13 +22,13 @@ There are two ways to run the example:
 
 2) Create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)
 
-    Open an Anaconda Command Prompt on Windows or a terminal window on OSX and point it to the location of ``requirements.yml`` or ``gis.yml`` and enter:
+    Open an Anaconda Command Prompt on Windows or a terminal window on OSX and point it to the location of ``environment.yml`` or ``gis.yml`` and enter:
 
-        conda env create -f requirements.yml
+        conda env create -f environment.yml
 
     **Note:** if the above line executes too slowly, try installing [Mamba](https://mamba.readthedocs.io/en/latest/) and using that instead, i.e.
 
-        mamba env create -f requirements.yml
+        mamba env create -f environment.yml
 
 3) Activate the environment
     

@@ -17,12 +17,12 @@ There are two ways to run the example:
 1) Download and install the 64-bit [Anaconda python distribution](https://www.anaconda.com/distribution/) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
   * Anaconda comes with a larger selection of popular data science and scientific packages, making it ideal for those who use python frequently for scientific computing.
-  * Miniconda is a minimal installer with a much smaller footprint, making it ideal for those who only want to use ``Modflow-setup``.
+  * Miniconda is a minimal installer with a much smaller footprint, making it ideal for those who only want to run this example.
   * **Make sure to install Anaconda or Miniconda to your username** (not at the system level). 
 
 2) Create a [Conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html)
 
-    Open an Anaconda Command Prompt on Windows or a terminal window on OSX and point it to the location of ``environment.yml`` or ``gis.yml`` and enter:
+    Open an Anaconda Command Prompt on Windows or a terminal window on OSX and point it to the location of ``environment.yml`` and enter:
 
         conda env create -f environment.yml
 
@@ -44,7 +44,7 @@ There are two ways to run the example:
 
     A new browser tab should pop up with the Jupyter file browser. Navigate to ``worked_flopy_example.ipynb`` and click on it. For more information on Jupyter Notebooks, refer to the documentation: https://jupyter.org.
 
-    **Note:** Running the model through Flopy (as in the Notebook) requires specification of the MODFLOW executable. In the example, we assume that a MODFLOW 6 executable named ``"mf6"`` is visible in the system path at the location of this folder (see the ``exe_name`` argument in cell 5).
+    **Note:** Running the model through Flopy (as in the Notebook) requires specification of the MODFLOW executable. In the example, we assume that a MODFLOW 6 executable named ``"mf6"`` is visible in the system path at the location of this folder (see the ``exe_name`` argument in Notebook cell 5).
 
 ### References
 Fienen, M.N., Haserodt, M.J., Leaf, A.T., Westenbroek, S.M., 2022, Simulation of Regional Groundwater Flow and Groundwater/Lake Interactions in the Central Sands, Wisconsin: U.S. Geological Survey Scientific Investigations Report 2022-5046, in press. http://doi.org/10.3133/sir20225046

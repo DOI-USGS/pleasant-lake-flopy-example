@@ -50,4 +50,4 @@ There are two ways to run the example:
 Fienen, M.N., Haserodt, M.J., Leaf, A.T., Westenbroek, S.M., 2022, Simulation of Regional Groundwater Flow and Groundwater/Lake Interactions in the Central Sands, Wisconsin: U.S. Geological Survey Scientific Investigations Report 2022-5046, in press. http://doi.org/10.3133/sir20225046
 
 USGS Software release citation:  
-Leaf, A.T. and Fienen, M.N. (2022). Worked example for Flopy – the Python interface for MODFLOW version 0.1, U.S. Geological Survey Software Release (IP-143803; in review), 15 Aug 2022. https://doi.org/10.5066/P9EFHF9H
+Leaf, A.T. and Fienen, M.N. (2022). Pleasant Lake worked Flopy example, version 0.1, U.S. Geological Survey Software Release (IP-143803; in review), 15 Aug 2022. https://doi.org/10.5066/P9EFHF9H

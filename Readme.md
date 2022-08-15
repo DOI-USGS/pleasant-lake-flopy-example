@@ -49,5 +49,23 @@ There are two ways to run the example:
 ### References
 Fienen, M.N., Haserodt, M.J., Leaf, A.T., Westenbroek, S.M., 2022, Simulation of Regional Groundwater Flow and Groundwater/Lake Interactions in the Central Sands, Wisconsin: U.S. Geological Survey Scientific Investigations Report 2022-5046, in press. http://doi.org/10.3133/sir20225046
 
+### How to cite this example:
+*Groundwater* Technology Spotlight article:  
+Leaf, A.T. and Fienen, M.N. (2022), Flopy – the Python interface for MODFLOW. Groundwater (in revision), xx: xxx-xxx. https://doi.org/10.1111/gwat.xxxxx
+
 USGS Software release citation:  
-Leaf, A.T. and Fienen, M.N. (2022). Pleasant Lake worked Flopy example, version 0.1, U.S. Geological Survey Software Release (IP-143803; in review), 15 Aug 2022. https://doi.org/10.5066/P9EFHF9H
+Leaf, A.T. and Fienen, M.N. (2022). Pleasant Lake worked Flopy example, version 0.1, U.S. Geological Survey Software Release (IP-143803; in review), 1 Sept 2022. https://doi.org/10.5066/P9EFHF9H
+
+Disclaimer
+----------
+
+This software is preliminary or provisional and is subject to revision. It is
+being provided to meet the need for timely best science. The software has not
+received final approval by the U.S. Geological Survey (USGS). No warranty,
+expressed or implied, is made by the USGS or the U.S. Government as to the
+functionality of the software and related material nor shall the fact of release
+constitute any such warranty. The software is provided on the condition that
+neither the USGS nor the U.S. Government shall be held liable for any damages
+resulting from the authorized or unauthorized use of the software. It is the responsibility of the user to check the accuracy of the results.
+
+Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.

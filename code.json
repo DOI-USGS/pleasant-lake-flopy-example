@@ -26,6 +26,7 @@
 
     "tags": [
       "python",
+      "Flopy",
       "MODFLOW",
       "groundwater models",
       "USGS",
@@ -42,7 +43,7 @@
     },
 
     "date": {
-      "metadataLastUpdated": "2022-08-01"
+      "metadataLastUpdated": "2022-08-15"
     }
   }
 ]
